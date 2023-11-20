@@ -126,6 +126,22 @@ h2{
 .audio::before{
   content: 'Seleccionar archivo de audio';
 }
+.loc {
+  display: flex;
+  align-content: center;
+}
+.parrafos {
+  font-size: large;
+}
+.subida-loc {
+  background-color: whitesmoke;
+  border: solid 4px #be9857;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 5em;
+  height: 4em;
+  width: max-content;
+}
 .datos {
   display: block;
   padding: 10px;
